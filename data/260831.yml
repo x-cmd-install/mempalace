@@ -1,0 +1,64 @@
+about:
+  description: The best-benchmarked open-source AI memory system. And it's free.
+  license: MIT
+  homepage: http://mempalaceofficial.com/
+  head: a9f345c
+  archived: false
+  latestVersion: v3.8.0
+  collectedAt: 2026-08-31T05:23:12Z
+timeline:
+  created: 2026-04-05
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-23
+popularity:
+  star: 58744
+  watcher: 322
+  fork: 7541
+  release: 16
+  contributor: 143
+  pullRequest: 833
+  issue: 827
+language:
+  Python: 6141691
+  Shell: 148192
+  HTML: 72274
+  CSS: 50707
+  Vue: 22112
+  JavaScript: 14706
+  TypeScript: 5587
+  Dockerfile: 4091
+  Go Template: 385
+totalLine: 6459745
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 3
+    mergedPR: 84
+    openPR: 65
+    closedIssue: 26
+    openIssue: 75
+    commit: 113
+  last90d:
+    since: 2026-06-02
+    release: 8
+    mergedPR: 240
+    openPR: 142
+    closedIssue: 105
+    openIssue: 132
+    commit: 408
+  last180d:
+    since: 2026-03-04
+    release: 16
+    mergedPR: 652
+    openPR: 385
+    closedIssue: 475
+    openIssue: 352
+    commit: 1257
+  last360d:
+    since: 2025-09-05
+    release: 16
+    mergedPR: 652
+    openPR: 385
+    closedIssue: 475
+    openIssue: 352
+    commit: 1257
