@@ -5,19 +5,19 @@ about:
   head: d9f0590
   archived: false
   latestVersion: "v3.9.0"
-  collectedAt: 2026-09-07T06:00:05Z
+  collectedAt: 2026-09-07T18:26:53Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-09-02
   lastRelease: 2026-08-31
 popularity:
-  star: 58891
-  watcher: 329
-  fork: 7547
+  star: 58901
+  watcher: 328
+  fork: 7548
   release: 17
   contributor: 146
-  pullRequest: 1526
-  issue: 845
+  pullRequest: 1530
+  issue: 847
 language:
   Python: 6575239
   Shell: 148192
@@ -34,60 +34,60 @@ recent:
     since: 2026-08-08
     release: 4
     mergedPR: 65
-    openPR: 67
+    openPR: 71
     closedIssue: 21
-    openIssue: 79
+    openIssue: 81
     commit: 105
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 139
-    openPR: 112
+    openPR: 116
     closedIssue: 53
-    openIssue: 113
+    openIssue: 115
     commit: 219
   last90d:
     since: 2026-06-09
     release: 7
     mergedPR: 226
-    openPR: 146
+    openPR: 150
     closedIssue: 96
-    openIssue: 143
+    openIssue: 145
     commit: 396
   last180d:
     since: 2026-03-11
     release: 17
     mergedPR: 666
-    openPR: 397
+    openPR: 401
     closedIssue: 478
-    openIssue: 367
+    openIssue: 369
     commit: 1297
   last360d:
     since: 2025-09-12
     release: 17
     mergedPR: 666
-    openPR: 397
+    openPR: 401
     closedIssue: 478
-    openIssue: 367
+    openIssue: 369
     commit: 1297
   last720d:
     since: 2024-09-17
     release: 17
     mergedPR: 666
-    openPR: 397
+    openPR: 401
     closedIssue: 478
-    openIssue: 367
+    openIssue: 369
     commit: 1947
 total:
   release: 17
   mergedPR: 666
-  openPR: 397
+  openPR: 401
   closedIssue: 478
-  openIssue: 367
+  openIssue: 369
   commit: 1947
 ---
 path: /home/runner/.x-repo/github.com/MemPalace/mempalace
-collectedAt: 2026-09-07T06:00:13Z
+collectedAt: 2026-09-07T18:26:57Z
 loc:
   Json:
     code: 334007
@@ -153,7 +153,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:00:14+00:00
+  collectedAt: 2026-09-07T18:26:58+00:00
   platform:
     darwin/arm64:
       name:  null
