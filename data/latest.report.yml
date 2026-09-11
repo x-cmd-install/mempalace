@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.9.0"
   latestRelease: "v3.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T23:45:35Z
+  collectedAt: 2026-09-11T06:04:51Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 58987
+  star: 58990
   watcher: 326
-  fork: 7563
+  fork: 7564
   release: 17
   contributor: 146
   pullRequest: 1544
@@ -37,31 +37,31 @@ language:
 totalBytes: 7038479
 recent:
   last30d:
-    since: 2026-08-11
-    release: 4
-    mergedPR: 53
-    openPR: 79
+    since: 2026-08-12
+    release: 3
+    mergedPR: 51
+    openPR: 76
     closedIssue: 15
-    openIssue: 81
+    openIssue: 75
     commit: 115
   last60d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 5
-    mergedPR: 139
-    openPR: 121
-    closedIssue: 53
+    mergedPR: 138
+    openPR: 119
+    closedIssue: 52
     openIssue: 116
     commit: 229
   last90d:
-    since: 2026-06-12
+    since: 2026-06-13
     release: 7
-    mergedPR: 216
+    mergedPR: 215
     openPR: 160
-    closedIssue: 84
-    openIssue: 148
+    closedIssue: 83
+    openIssue: 146
     commit: 406
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 17
     mergedPR: 668
     openPR: 413
@@ -69,7 +69,7 @@ recent:
     openIssue: 374
     commit: 1307
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 17
     mergedPR: 668
     openPR: 413
@@ -77,7 +77,7 @@ recent:
     openIssue: 374
     commit: 1307
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 17
     mergedPR: 668
     openPR: 413
@@ -93,7 +93,7 @@ total:
   commit: 1959
 ---
 path: /home/runner/.x-repo/github.com/MemPalace/mempalace
-collectedAt: 2026-09-10T23:45:38Z
+collectedAt: 2026-09-11T06:04:54Z
 loc:
   Json:
     code: 334525
