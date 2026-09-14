@@ -14,12 +14,12 @@ x install mempalace
 
 ## Code insight
 
-Total: **483,225** lines of code across **413** files in the top 5 languages.
+Total: **484,920** lines of code across **417** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 334,525 | 0 | 1 | 32 |
-| Python | 143,210 | 10,258 | 26,568 | 359 |
+| Python | 144,905 | 10,306 | 26,881 | 363 |
 | Sh | 1,851 | 1,420 | 258 | 16 |
 | Rust | 1,197 | 15 | 116 | 5 |
 | Html | 847 | 22 | 29 | 1 |
@@ -37,22 +37,22 @@ Total: **483,225** lines of code across **413** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 59,028 · **Forks**: 7,565 · **Open issues**: 855 · **Contributors**: 159
+- **Stars**: 59,039 · **Forks**: 7,560 · **Open issues**: 857 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 711 · **Open PRs**: 380 · **Closed issues**: 496 · **Open issues**: 359 · **Commits**: 2007
+- **Releases**: 17 · **Merged PRs**: 717 · **Open PRs**: 377 · **Closed issues**: 499 · **Open issues**: 358 · **Commits**: 2013
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 80 | 50 | 27 | 60 | 120 |
-| last60d | 2026-07-15 | 5 | 167 | 82 | 65 | 99 | 260 |
-| 90d | 2026-06-15 | 7 | 250 | 126 | 97 | 133 | 402 |
-| last180d | 2026-03-17 | 17 | 711 | 380 | 496 | 359 | 1351 |
-| 360d | 2025-09-18 | 17 | 711 | 380 | 496 | 359 | 1351 |
-| last720d | 2024-09-23 | 17 | 711 | 380 | 496 | 359 | 2007 |
+| 30d | 2026-08-15 | 2 | 83 | 42 | 28 | 52 | 126 |
+| last60d | 2026-07-16 | 5 | 170 | 81 | 67 | 99 | 266 |
+| 90d | 2026-06-16 | 6 | 255 | 123 | 98 | 133 | 408 |
+| last180d | 2026-03-18 | 17 | 717 | 377 | 499 | 358 | 1357 |
+| 360d | 2025-09-19 | 17 | 717 | 377 | 499 | 358 | 1357 |
+| last720d | 2024-09-24 | 17 | 717 | 377 | 499 | 358 | 2013 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mempalace lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:13:55Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:34:09Z._
