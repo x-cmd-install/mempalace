@@ -4,7 +4,7 @@
 
 The best-benchmarked open-source AI memory system. And it's free.
 
-![mempalace](https://repo.x-cmd.io/mempalace.svg)
+[![x-cmd/install — mempalace Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mempalace.svg)](https://x-cmd.com/install/mempalace)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **489,653** lines of code across **421** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 59,144 · **Forks**: 7,565 · **Open issues**: 869 · **Contributors**: 160
+- **Stars**: 59,163 · **Forks**: 7,563 · **Open issues**: 875 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 738 · **Open PRs**: 387 · **Closed issues**: 528 · **Open issues**: 341 · **Commits**: 2038
+- **Releases**: 18 · **Merged PRs**: 738 · **Open PRs**: 395 · **Closed issues**: 528 · **Open issues**: 347 · **Commits**: 2038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 93 | 46 | 35 | 41 | 0 |
-| last60d | 2026-07-20 | 5 | 188 | 85 | 80 | 91 | 0 |
-| 90d | 2026-06-20 | 7 | 260 | 133 | 111 | 123 | 0 |
-| last180d | 2026-03-22 | 18 | 738 | 387 | 528 | 341 | 0 |
-| 360d | 2025-09-23 | 18 | 738 | 387 | 528 | 341 | 0 |
-| last720d | 2024-09-28 | 18 | 738 | 387 | 528 | 341 | 2038 |
+| 30d | 2026-08-21 | 3 | 86 | 53 | 31 | 47 | 146 |
+| last60d | 2026-07-22 | 5 | 185 | 93 | 77 | 95 | 286 |
+| 90d | 2026-06-22 | 7 | 251 | 140 | 108 | 128 | 428 |
+| last180d | 2026-03-24 | 18 | 738 | 395 | 528 | 347 | 1377 |
+| 360d | 2025-09-25 | 18 | 738 | 395 | 528 | 347 | 1377 |
+| last720d | 2024-09-30 | 18 | 738 | 395 | 528 | 347 | 2038 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mempalace lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:21:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:48Z._

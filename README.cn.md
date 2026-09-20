@@ -4,7 +4,7 @@
 
 The best-benchmarked open-source AI memory system. And it's free.
 
-![mempalace](https://repo.x-cmd.io/mempalace.svg?lang=zh)
+[![x-cmd/install — mempalace Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mempalace.svg?lang=zh)](https://x-cmd.com/install/mempalace)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install mempalace
 
 ## 流行度
 
-- **Star**: 59,144 · **Fork**: 7,565 · **开放 issue**: 869 · **贡献者**: 160
+- **Star**: 59,163 · **Fork**: 7,563 · **开放 issue**: 875 · **贡献者**: 160
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 738 · **开放 PR**: 387 · **已关闭 issue**: 528 · **开放 issue**: 341 · **提交数**: 2038
+- **发布数**: 18 · **已合并 PR**: 738 · **开放 PR**: 395 · **已关闭 issue**: 528 · **开放 issue**: 347 · **提交数**: 2038
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 93 | 46 | 35 | 41 | 0 |
-| last60d | 2026-07-20 | 5 | 188 | 85 | 80 | 91 | 0 |
-| 90d | 2026-06-20 | 7 | 260 | 133 | 111 | 123 | 0 |
-| last180d | 2026-03-22 | 18 | 738 | 387 | 528 | 341 | 0 |
-| 360d | 2025-09-23 | 18 | 738 | 387 | 528 | 341 | 0 |
-| last720d | 2024-09-28 | 18 | 738 | 387 | 528 | 341 | 2038 |
+| 30d | 2026-08-21 | 3 | 86 | 53 | 31 | 47 | 146 |
+| last60d | 2026-07-22 | 5 | 185 | 93 | 77 | 95 | 286 |
+| 90d | 2026-06-22 | 7 | 251 | 140 | 108 | 128 | 428 |
+| last180d | 2026-03-24 | 18 | 738 | 395 | 528 | 347 | 1377 |
+| 360d | 2025-09-25 | 18 | 738 | 395 | 528 | 347 | 1377 |
+| last720d | 2024-09-30 | 18 | 738 | 395 | 528 | 347 | 2038 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ mempalace 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:21:52Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:16:48Z._
