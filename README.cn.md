@@ -4,7 +4,7 @@
 
 The best-benchmarked open-source AI memory system. And it's free.
 
-[![x-cmd/install — mempalace Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mempalace.svg?lang=zh)](https://x-cmd.com/install/mempalace)
+[![x-cmd/install — mempalace Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mempalace.svg?lang=zh)](https://x-cmd.com/install/mempalace)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install mempalace
 
 ## 代码洞察
 
-合计: **491,448** 行代码（覆盖前 5 种语言、共 **424** 个文件）。
+合计: **492,181** 行代码（覆盖前 5 种语言、共 **424** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 334,525 | 0 | 1 | 32 |
-| Python | 151,401 | 10,714 | 28,013 | 370 |
+| Python | 152,134 | 10,759 | 28,178 | 370 |
 | Sh | 1,883 | 1,426 | 262 | 16 |
 | Rust | 1,197 | 15 | 116 | 5 |
 | Html | 847 | 22 | 29 | 1 |
@@ -38,22 +38,22 @@ x install mempalace
 
 ## 流行度
 
-- **Star**: 59,208 · **Fork**: 7,564 · **开放 issue**: 879 · **贡献者**: 160
+- **Star**: 59,238 · **Fork**: 7,565 · **开放 issue**: 880 · **贡献者**: 161
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 742 · **开放 PR**: 398 · **已关闭 issue**: 530 · **开放 issue**: 349 · **提交数**: 2042
+- **发布数**: 18 · **已合并 PR**: 746 · **开放 PR**: 398 · **已关闭 issue**: 534 · **开放 issue**: 346 · **提交数**: 2046
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 87 | 53 | 26 | 39 | 121 |
-| last60d | 2026-07-24 | 5 | 186 | 93 | 77 | 97 | 274 |
-| 90d | 2026-06-24 | 6 | 248 | 143 | 107 | 128 | 402 |
-| last180d | 2026-03-26 | 18 | 742 | 398 | 530 | 349 | 1381 |
-| 360d | 2025-09-27 | 18 | 742 | 398 | 530 | 349 | 1381 |
-| last720d | 2024-10-02 | 18 | 742 | 398 | 530 | 349 | 2042 |
+| 30d | 2026-08-24 | 2 | 85 | 53 | 28 | 35 | 125 |
+| last60d | 2026-07-25 | 5 | 190 | 91 | 81 | 93 | 278 |
+| 90d | 2026-06-25 | 6 | 252 | 143 | 111 | 125 | 406 |
+| last180d | 2026-03-27 | 18 | 746 | 398 | 534 | 346 | 1385 |
+| 360d | 2025-09-28 | 18 | 746 | 398 | 534 | 346 | 1385 |
+| last720d | 2024-10-03 | 18 | 746 | 398 | 534 | 346 | 2046 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ mempalace 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:26:58Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:46:01Z._
