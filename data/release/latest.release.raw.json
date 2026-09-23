@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2331472,
       "digest": "sha256:c4a56a9fcf7db55bb384ee9bab4b3697f6eda13e2d169b094572606eb1b95cc3",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-16T00:26:09Z",
       "updated_at": "2026-09-16T00:26:09Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace-native-macos"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2250240,
       "digest": "sha256:b0bbd9be3240c5be6f992c60900b59d6406bbdc53ebe973d9c4bd969fb267589",
-      "download_count": 29,
+      "download_count": 34,
       "created_at": "2026-09-16T00:26:09Z",
       "updated_at": "2026-09-16T00:26:09Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace-native-windows-amd64.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1092261,
       "digest": "sha256:db1f79d66c89dfa4f167dd0559760f93c6058ee075f96222eae69bee8b17926c",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-16T00:26:09Z",
       "updated_at": "2026-09-16T00:26:09Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-macosx_11_0_arm64.whl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1256765,
       "digest": "sha256:bfb276db94979767d0af65caf7ee08cfec07a333ade0b7cf1c988935270e1835",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-16T00:26:09Z",
       "updated_at": "2026-09-16T00:26:10Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-manylinux_2_34_x86_64.whl"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1056475,
       "digest": "sha256:7e2ab5851116c352cd58d57b1bd4cfc8bafd4a95fba44d325f78be1b67cd95cd",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-16T00:26:09Z",
       "updated_at": "2026-09-16T00:26:10Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-win_amd64.whl"
