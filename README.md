@@ -14,12 +14,12 @@ x install mempalace
 
 ## Code insight
 
-Total: **505,002** lines of code across **449** files in the top 5 languages.
+Total: **506,714** lines of code across **456** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 334,525 | 0 | 1 | 32 |
-| Python | 164,955 | 11,281 | 30,111 | 395 |
+| Python | 166,667 | 11,339 | 30,288 | 402 |
 | Sh | 1,883 | 1,426 | 262 | 16 |
 | Rust | 1,197 | 15 | 116 | 5 |
 | Html | 847 | 22 | 29 | 1 |
@@ -38,22 +38,22 @@ Total: **505,002** lines of code across **449** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 59,389 · **Forks**: 7,562 · **Open issues**: 899 · **Contributors**: 163
+- **Stars**: 59,406 · **Forks**: 7,561 · **Open issues**: 900 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 773 · **Open PRs**: 423 · **Closed issues**: 544 · **Open issues**: 355 · **Commits**: 2071
+- **Releases**: 18 · **Merged PRs**: 784 · **Open PRs**: 420 · **Closed issues**: 544 · **Open issues**: 356 · **Commits**: 2085
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 81 | 63 | 24 | 35 | 113 |
-| last60d | 2026-08-04 | 5 | 181 | 113 | 71 | 94 | 279 |
-| 90d | 2026-07-05 | 6 | 254 | 163 | 108 | 123 | 370 |
-| last180d | 2026-04-06 | 18 | 773 | 423 | 542 | 355 | 1403 |
-| 360d | 2025-10-08 | 18 | 773 | 423 | 544 | 355 | 1410 |
-| last720d | 2024-10-13 | 18 | 773 | 423 | 544 | 355 | 2071 |
+| 30d | 2026-09-04 | 1 | 92 | 59 | 22 | 35 | 123 |
+| last60d | 2026-08-05 | 5 | 190 | 107 | 70 | 94 | 289 |
+| 90d | 2026-07-06 | 6 | 264 | 151 | 108 | 121 | 380 |
+| last180d | 2026-04-07 | 17 | 751 | 402 | 494 | 344 | 1413 |
+| 360d | 2025-10-09 | 18 | 784 | 420 | 544 | 356 | 1420 |
+| last720d | 2024-10-14 | 18 | 784 | 420 | 544 | 356 | 2085 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mempalace lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:26:46Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:56:59Z._
