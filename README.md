@@ -14,12 +14,12 @@ x install mempalace
 
 ## Code insight
 
-Total: **506,714** lines of code across **456** files in the top 5 languages.
+Total: **507,686** lines of code across **456** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 334,525 | 0 | 1 | 32 |
-| Python | 166,667 | 11,339 | 30,288 | 402 |
+| Python | 167,639 | 11,406 | 30,494 | 402 |
 | Sh | 1,883 | 1,426 | 262 | 16 |
 | Rust | 1,197 | 15 | 116 | 5 |
 | Html | 847 | 22 | 29 | 1 |
@@ -33,27 +33,27 @@ Total: **506,714** lines of code across **456** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.10.0` (2026-09-16)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-06
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 59,423 · **Forks**: 7,561 · **Open issues**: 908 · **Contributors**: 163
+- **Stars**: 59,440 · **Forks**: 7,563 · **Open issues**: 908 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 784 · **Open PRs**: 425 · **Closed issues**: 544 · **Open issues**: 364 · **Commits**: 2085
+- **Releases**: 18 · **Merged PRs**: 790 · **Open PRs**: 428 · **Closed issues**: 546 · **Open issues**: 362 · **Commits**: 2092
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 89 | 64 | 20 | 41 | 111 |
-| last60d | 2026-08-07 | 5 | 182 | 107 | 67 | 98 | 232 |
-| 90d | 2026-07-08 | 6 | 256 | 145 | 107 | 126 | 357 |
-| last180d | 2026-04-09 | 17 | 725 | 352 | 421 | 307 | 1163 |
-| 360d | 2025-10-11 | 18 | 784 | 425 | 544 | 364 | 1420 |
-| last720d | 2024-10-16 | 18 | 784 | 425 | 544 | 364 | 2085 |
+| 30d | 2026-09-07 | 1 | 90 | 66 | 20 | 39 | 117 |
+| last60d | 2026-08-08 | 5 | 179 | 110 | 66 | 95 | 238 |
+| 90d | 2026-07-09 | 6 | 262 | 145 | 105 | 122 | 363 |
+| last180d | 2026-04-10 | 16 | 724 | 332 | 391 | 279 | 1169 |
+| 360d | 2025-10-12 | 18 | 790 | 428 | 546 | 362 | 1426 |
+| last720d | 2024-10-17 | 18 | 790 | 428 | 546 | 362 | 2092 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mempalace lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:52:47Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:18:47Z._
