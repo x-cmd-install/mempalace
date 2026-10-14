@@ -14,12 +14,12 @@ x install mempalace
 
 ## 代码洞察
 
-合计: **517,362** 行代码（覆盖前 5 种语言、共 **481** 个文件）。
+合计: **518,797** 行代码（覆盖前 5 种语言、共 **493** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 334,525 | 0 | 1 | 32 |
-| Python | 177,296 | 11,767 | 32,297 | 427 |
+| Python | 178,731 | 11,783 | 32,506 | 439 |
 | Sh | 1,883 | 1,426 | 262 | 16 |
 | Rust | 1,197 | 15 | 116 | 5 |
 | Html | 847 | 22 | 29 | 1 |
@@ -32,41 +32,41 @@ x install mempalace
 
 ## 发布
 
-- **最新版本**: `v3.10.0` (2026-09-16)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v3.11.0` (2026-10-14)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 59,538 · **Fork**: 7,557 · **开放 issue**: 918 · **贡献者**: 163
+- **Star**: 59,560 · **Fork**: 7,564 · **开放 issue**: 920 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 810 · **开放 PR**: 431 · **已关闭 issue**: 553 · **开放 issue**: 365 · **提交数**: 2125
+- **发布数**: 19 · **已合并 PR**: 812 · **开放 PR**: 431 · **已关闭 issue**: 553 · **开放 issue**: 367 · **提交数**: 2126
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 87 | 70 | 20 | 41 | 78 |
-| last60d | 2026-08-14 | 4 | 177 | 110 | 61 | 87 | 251 |
-| 90d | 2026-07-15 | 6 | 264 | 140 | 105 | 120 | 366 |
-| last180d | 2026-04-16 | 15 | 622 | 299 | 329 | 245 | 1054 |
-| 360d | 2025-10-18 | 18 | 810 | 431 | 553 | 365 | 1453 |
-| last720d | 2024-10-23 | 18 | 810 | 431 | 553 | 365 | 2125 |
+| 30d | 2026-09-14 | 2 | 87 | 69 | 18 | 43 | 79 |
+| last60d | 2026-08-15 | 4 | 178 | 103 | 60 | 81 | 252 |
+| 90d | 2026-07-16 | 7 | 265 | 140 | 105 | 122 | 367 |
+| last180d | 2026-04-17 | 16 | 616 | 294 | 326 | 244 | 1055 |
+| 360d | 2025-10-19 | 19 | 812 | 431 | 553 | 367 | 1454 |
+| last720d | 2024-10-24 | 19 | 812 | 431 | 553 | 367 | 2126 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [mempalace-native-linux-amd64](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace-native-linux-amd64) | 2.6 MiB | `native/linux/x64` |
-| [mempalace-native-macos](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace-native-macos) | 2.2 MiB | `native/darwin/x64` |
-| [mempalace-native-windows-amd64.exe](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace-native-windows-amd64.exe) | 2.1 MiB | `native/win/x64` |
-| [mempalace_native_core-3.10.0-cp39-abi3-macosx_10_12_x86_64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-macosx_10_12_x86_64.whl) | 1.1 MiB | `native/darwin/x64` |
-| [mempalace_native_core-3.10.0-cp39-abi3-macosx_11_0_arm64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
-| [mempalace_native_core-3.10.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl) | 1.0 MiB | `native/linux/arm64` |
-| [mempalace_native_core-3.10.0-cp39-abi3-manylinux_2_34_x86_64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-manylinux_2_34_x86_64.whl) | 1.2 MiB | `native/linux/x64` |
-| [mempalace_native_core-3.10.0-cp39-abi3-win_amd64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.10.0/mempalace_native_core-3.10.0-cp39-abi3-win_amd64.whl) | 1.0 MiB | `other` |
+| [mempalace-native-linux-amd64](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-linux-amd64) | 2.6 MiB | `native/linux/x64` |
+| [mempalace-native-macos](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-macos) | 2.2 MiB | `native/darwin/x64` |
+| [mempalace-native-windows-amd64.exe](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-windows-amd64.exe) | 2.1 MiB | `native/win/x64` |
+| [mempalace_native_core-3.11.0-cp39-abi3-macosx_10_12_x86_64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-macosx_10_12_x86_64.whl) | 1.1 MiB | `native/darwin/x64` |
+| [mempalace_native_core-3.11.0-cp39-abi3-macosx_11_0_arm64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-macosx_11_0_arm64.whl) | 1.0 MiB | `native/darwin/arm64` |
+| [mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl) | 1.0 MiB | `native/linux/arm64` |
+| [mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_34_x86_64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-manylinux_2_34_x86_64.whl) | 1.2 MiB | `native/linux/x64` |
+| [mempalace_native_core-3.11.0-cp39-abi3-win_amd64.whl](https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace_native_core-3.11.0-cp39-abi3-win_amd64.whl) | 1.0 MiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ mempalace 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T08:06:50Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T06:11:53Z._
