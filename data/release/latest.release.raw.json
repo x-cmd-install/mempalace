@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2732632,
       "digest": "sha256:ecf5f8dec80cf2f07a2d33dbebb3d323f3872cc7b57a6cd1fa446dfd3978f415",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-14T05:28:22Z",
       "updated_at": "2026-10-14T05:28:23Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-linux-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2247168,
       "digest": "sha256:a9a341c6bda4fa97a974d823e584fad2283e501cb55793eb55d3bc53e9865f1b",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-10-14T05:28:22Z",
       "updated_at": "2026-10-14T05:28:23Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.11.0/mempalace-native-windows-amd64.exe"
