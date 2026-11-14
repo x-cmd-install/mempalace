@@ -38,22 +38,22 @@ Total: **545,241** lines of code across **573** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 60,540 · **Forks**: 7,668 · **Open issues**: 961 · **Contributors**: 182
+- **Stars**: 60,552 · **Forks**: 7,669 · **Open issues**: 964 · **Contributors**: 182
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 977 · **Open PRs**: 451 · **Closed issues**: 597 · **Open issues**: 364 · **Commits**: 2617
+- **Releases**: 20 · **Merged PRs**: 977 · **Open PRs**: 455 · **Closed issues**: 598 · **Open issues**: 366 · **Commits**: 2617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 154 | 46 | 18 | 20 | 247 |
-| last60d | 2026-09-14 | 3 | 250 | 100 | 57 | 46 | 362 |
-| 90d | 2026-08-15 | 5 | 341 | 132 | 100 | 82 | 537 |
-| last180d | 2026-05-17 | 12 | 609 | 242 | 234 | 182 | 998 |
-| 360d | 2025-11-18 | 20 | 977 | 451 | 597 | 364 | 1734 |
-| last720d | 2024-11-23 | 20 | 977 | 451 | 597 | 364 | 2617 |
+| 30d | 2026-10-15 | 1 | 126 | 50 | 18 | 20 | 247 |
+| last60d | 2026-09-15 | 3 | 238 | 101 | 57 | 45 | 362 |
+| 90d | 2026-08-16 | 5 | 337 | 133 | 99 | 84 | 537 |
+| last180d | 2026-05-18 | 12 | 604 | 246 | 235 | 183 | 998 |
+| 360d | 2025-11-19 | 20 | 977 | 455 | 598 | 366 | 1734 |
+| last720d | 2024-11-24 | 20 | 977 | 455 | 598 | 366 | 2617 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for mempalace lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:18:57Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:17:48Z._
