@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2732984,
       "digest": "sha256:fd0f5075ed22f34875cdf0d742af7d0dfd71c1efd052364b35260815b7664434",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-12T10:26:58Z",
       "updated_at": "2026-11-12T10:26:59Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace-native-linux-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2331520,
       "digest": "sha256:9a10c624a3ae7ebb7077e256d1ae74cd54871aa50c796d5d1900d2b98db74504",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-12T10:26:58Z",
       "updated_at": "2026-11-12T10:26:59Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace-native-macos"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1252096,
       "digest": "sha256:260c662b080418126b4b5652cf7e5968d6e26d545e85c96c401d85ffc8c923b0",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-12T10:26:59Z",
       "updated_at": "2026-11-12T10:26:59Z",
       "browser_download_url": "https://github.com/MemPalace/mempalace/releases/download/v3.12.0/mempalace_native_core-3.12.0-cp310-abi3-manylinux_2_34_x86_64.whl"
